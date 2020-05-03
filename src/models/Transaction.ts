@@ -1,3 +1,5 @@
+// Entidade de transações
+
 import { uuid } from 'uuidv4';
 
 class Transaction {
